@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Autocomplete from '@moedelo/frontend-core-react/components/Autocomplete';
+import Link from '@moedelo/frontend-core-react/components/Link';
 import logo from './logo.svg';
 import './App.css';
 
